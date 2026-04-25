@@ -1,0 +1,1212 @@
+{
+  "metadata": {
+    "scraped_at": "2026-04-25T00:05:24.363954+00:00",
+    "target_account": "bethcast",
+    "scraper_version": "2.1.0",
+    "posts_requested": 10,
+    "posts_obtained": 10,
+    "comments_per_post": 10,
+    "total_comments_obtained": 100,
+    "session_valid": true,
+    "app_id_used": "936619743392459"
+  },
+  "profile": {
+    "username": "bethcast",
+    "full_name": "🌲Beth Cast",
+    "is_private": false,
+    "is_verified": true,
+    "is_business": true,
+    "followers_count": 7006830,
+    "following_count": 942,
+    "posts_count": 233,
+    "bio": "🌲\nManagement: @stayonsocial",
+    "external_url": "https://youtube.com/@bethcast1?si=SYp-zol80y2Fupmx",
+    "profile_pic_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-19/637678294_18555458644014629_1297156391370273019_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzIuYzIifQ&_nc_ht=instagram.fuio13-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGQpZ8qMKu8hVYQA2qhXVLmKcHtoWyAl4DcKQ__YVUioWXt3oB2k1f5irlIBZrm-sk&_nc_ohc=I53Mv4IwqXoQ7kNvwHo2Nb6&_nc_gid=1JjX26dBhnIXmDiNJYh6lw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af16sAS1zdwXjxr4Suml5sxIuoIPZ8fgni8bZsm9aywulw&oe=69F1EB87&_nc_sid=8b3546",
+    "profile_pic_hd_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-19/637678294_18555458644014629_1297156391370273019_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzIuYzIifQ&_nc_ht=instagram.fuio13-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGQpZ8qMKu8hVYQA2qhXVLmKcHtoWyAl4DcKQ__YVUioWXt3oB2k1f5irlIBZrm-sk&_nc_ohc=I53Mv4IwqXoQ7kNvwHo2Nb6&_nc_gid=1JjX26dBhnIXmDiNJYh6lw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1RdMOD88TTdT0BrcANRt1Aa7aRKvhnH_eUF0Z4YSwU0w&oe=69F1EB87&_nc_sid=8b3546",
+    "declared_context": {
+      "language": null,
+      "country": null,
+      "city": null,
+      "age_range": null,
+      "education_level": null,
+      "occupation": null
+    }
+  },
+  "data_quality": {
+    "first_post_date": "2026-03-20T02:26:11+00:00",
+    "last_post_date": "2026-04-24T02:20:35+00:00",
+    "posts_requested": 10,
+    "posts_obtained": 10,
+    "comments_obtained": 100
+  },
+  "posts": [
+    {
+      "post_id": "3882055783378901086",
+      "shortcode": "DXf1Sq-jNhe",
+      "timestamp": "2026-04-24T02:20:35+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Y a qué sabrá eso \n#reels #reelsinstagram",
+      "caption_clean": "Y a qué sabrá eso \n#reels #reelsinstagram",
+      "hashtags": [
+        "reels",
+        "reelsinstagram"
+      ],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 1408787,
+        "comments_count": 5629
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18176232727400805",
+          "username": "roman_rdz23",
+          "text": "Ellos son I y A?? 🤭",
+          "timestamp": "2026-04-24T02:22:30+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18064326296389600",
+          "username": "gabx__0404",
+          "text": "HEY HEY HEY HEY, NOS ESTAN TRATANDO DE DECIR ALGO??????? 👀",
+          "timestamp": "2026-04-24T02:40:47+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18106288147921929",
+          "username": "kimmigneaultxox",
+          "text": "😂😂",
+          "timestamp": "2026-04-24T02:36:04+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17887384104474696",
+          "username": "crystalmollygamer",
+          "text": "Ay queeeee!???? Jajajajajaja",
+          "timestamp": "2026-04-24T05:23:12+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18043512758766393",
+          "username": "nanatyx",
+          "text": "",
+          "timestamp": "2026-04-24T02:29:14+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18322511758264793",
+          "username": "keylinllinas",
+          "text": "Ay me emocioné! 🤭🤭",
+          "timestamp": "2026-04-24T02:27:21+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17982761412004095",
+          "username": "haruki_muracallme",
+          "text": "😂😂😂😂😂 amo",
+          "timestamp": "2026-04-24T03:02:14+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17877726816570466",
+          "username": "_.cxcocx._",
+          "text": "😂😂😂😂 amo",
+          "timestamp": "2026-04-24T04:07:12+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18148154581484316",
+          "username": "alondracosilionn",
+          "text": "JAJAJAJAJJAJA",
+          "timestamp": "2026-04-24T02:43:24+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17860104396581897",
+          "username": "emmevalle",
+          "text": "😂😂😂😂😂😍😍😍",
+          "timestamp": "2026-04-24T04:27:51+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Friday",
+        "caption_length": 41,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.2857142857142857
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/671724016_2038610990021421_4136550799449841914_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg4MjA1NTc4MzM3ODkwMTA4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=iGaqCZR682IQ7kNvwG3M59f&_nc_oc=AdqgcOnf3gMXwJf18xmHQVaHrTzYQUDex1TT7vJkT1Pi5ruRh9vyl8SpzpjJ6MmleTI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af2qkv44NNkwPE2rgcthetDM8lvPgn-N9s-ArXR6UmEYYw&oe=69F1E574"
+    },
+    {
+      "post_id": "3879879862819523158",
+      "shortcode": "DXYGi3CjIpW",
+      "timestamp": "2026-04-21T02:18:00+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Yo hablando sola en la madrugada\n#reels #reelsinstagram",
+      "caption_clean": "Yo hablando sola en la madrugada\n#reels #reelsinstagram",
+      "hashtags": [
+        "reels",
+        "reelsinstagram"
+      ],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 390766,
+        "comments_count": 2029
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17972204054876501",
+          "username": "azuaraharold",
+          "text": "Gracias pero siento que si voy tarde ⏰",
+          "timestamp": "2026-04-21T02:43:01+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18097695886852728",
+          "username": "ixchellopezjimex.x",
+          "text": "❤️🙌",
+          "timestamp": "2026-04-24T16:24:44+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18109187716897008",
+          "username": "mniandi.thv_",
+          "text": "Ay Beth, muchas gracias, son las palabras que necesitaba🥲❤️‍🩹",
+          "timestamp": "2026-04-21T02:44:33+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17959360356088040",
+          "username": "omarandrespr",
+          "text": "Yo ni al trabajo llego temprano. Ánimo todo a su tiempo ❤️‍🩹",
+          "timestamp": "2026-04-21T03:28:43+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17964821244067987",
+          "username": "galisaurio",
+          "text": "Gracias Liz lo tenía que oír 😢",
+          "timestamp": "2026-04-21T02:25:35+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18102040300989222",
+          "username": "rubendariohernandezmdn",
+          "text": "Gracias ❤️",
+          "timestamp": "2026-04-22T05:39:01+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18081203414119095",
+          "username": "karichumis",
+          "text": "Yo con 34 años sin encontrar el amors. 🤣no sentí mucho alivio que digamos.",
+          "timestamp": "2026-04-21T06:15:11+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18101593432784734",
+          "username": "danielrdsz",
+          "text": "Alm no sabia que tenia que escuchar esto gracias ❤️",
+          "timestamp": "2026-04-24T05:07:14+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18113329639694920",
+          "username": "maic_ruz",
+          "text": "Bien dicho... 👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽",
+          "timestamp": "2026-04-21T20:00:12+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18038984837791297",
+          "username": "alejiiii_",
+          "text": "Gracias Beth, lo necesitaba",
+          "timestamp": "2026-04-21T02:22:13+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Tuesday",
+        "caption_length": 55,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.25
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/670774873_1401005005405035_4656288140334849626_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg3OTg3OTg2MjgxOTUyMzE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=PgkCmcjTF-IQ7kNvwH7am-n&_nc_oc=Adr4TDJLHmQ8texmvozm0vSn_Q2-Yp1IHNXe6p7c0p8Tn1gpEvvxXQEcyc8uzJDJTr0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af3yG7ZiD8isbigUDkKoU00_HPGhjiZv1gEOePKeylt8GQ&oe=69F1D594"
+    },
+    {
+      "post_id": "3876983216557299589",
+      "shortcode": "DXNz7G_DJeF",
+      "timestamp": "2026-04-17T02:22:10+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Aqui con mis amigos los tiburones \n#reels #reelsinstagram",
+      "caption_clean": "Aqui con mis amigos los tiburones \n#reels #reelsinstagram",
+      "hashtags": [
+        "reels",
+        "reelsinstagram"
+      ],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 658419,
+        "comments_count": 2212
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18122518672625061",
+          "username": "elmarianaa",
+          "text": "Pero qué bonita sirenita 😮‍💨😮‍💨",
+          "timestamp": "2026-04-17T02:44:59+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17935886457082214",
+          "username": "kimmigneaultxox",
+          "text": "😍😍😍😍",
+          "timestamp": "2026-04-17T04:43:33+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18161353609430495",
+          "username": "nustapicuasi_",
+          "text": "Que hermosa ❤️",
+          "timestamp": "2026-04-17T02:58:50+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18121411168623369",
+          "username": "its.michhh",
+          "text": "😍😍",
+          "timestamp": "2026-04-17T21:24:06+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18118607731629833",
+          "username": "danielaarangoa",
+          "text": "perdón, y esta sirena? 🧜🏼‍♀️ 😍",
+          "timestamp": "2026-04-17T12:28:31+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18097173098016037",
+          "username": "brendagarza",
+          "text": "Hermosaaaa",
+          "timestamp": "2026-04-17T02:31:28+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18443541256112050",
+          "username": "pola._.jl",
+          "text": "Omg 😍",
+          "timestamp": "2026-04-17T03:20:10+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17976107865008321",
+          "username": "dominika.en.mexico",
+          "text": "P-p-pero que hiciste con el señor pelota? 🥺🥺",
+          "timestamp": "2026-04-17T02:24:27+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18043947860539479",
+          "username": "marianacaasa",
+          "text": "ESE PELOOOOO TDOO QUE VEEEER",
+          "timestamp": "2026-04-17T17:31:44+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18080582246171008",
+          "username": "aaron_cule",
+          "text": "Lo siento Wilson no pude salvarte de nuevo... 😢",
+          "timestamp": "2026-04-17T02:47:58+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Friday",
+        "caption_length": 57,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.25
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/670831212_960310819820449_7402707435009687492_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzg3Njk4MzIxNjU1NzI5OTU4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=52Spyy_ss4wQ7kNvwHHfIon&_nc_oc=Adp9f-ckFmw_WMV6TzbseIC6NZOozssurWW1QUIpmwc4M2v42yR6SovpiranLqyqh34&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af1mQRPydFhXidxu3E7Cy0RV3bz2A6ZS3oXI_sHXcArr4g&oe=69F1D2E9"
+    },
+    {
+      "post_id": "3876921397885381303",
+      "shortcode": "DXNl3h3Eaq3",
+      "timestamp": "2026-04-17T00:20:00+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Ojo con los mañosos te quiero mucho \n@nu.mx \n#reels #reelsinstagram #publicidad",
+      "caption_clean": "Ojo con los mañosos te quiero mucho \n@nu.mx \n#reels #reelsinstagram #publicidad",
+      "hashtags": [
+        "reels",
+        "reelsinstagram",
+        "publicidad"
+      ],
+      "emojis": [],
+      "mentions": [
+        "nu"
+      ],
+      "engagement": {
+        "likes_count": 90600,
+        "comments_count": 407
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [
+          "amor"
+        ],
+        "topic_tags": [],
+        "verbosity": "moderado",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17934198105056495",
+          "username": "hypatia.rosado",
+          "text": "Yo amo @nu.mx ❤️",
+          "timestamp": "2026-04-17T00:38:20+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18100708834784499",
+          "username": "zany_182",
+          "text": "😲👍",
+          "timestamp": "2026-04-19T03:12:35+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17963714478065786",
+          "username": "jazxwt",
+          "text": "YEIIII primeras",
+          "timestamp": "2026-04-17T00:24:26+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18436500103188889",
+          "username": "lazarobray.17",
+          "text": "La fluidez de hablar y contener la respiración, solo Beth lo puede hacer. ❤️❤️👏👏",
+          "timestamp": "2026-04-17T00:23:49+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17877027156567576",
+          "username": "bily_073",
+          "text": "Cada que la veo 😍",
+          "timestamp": "2026-04-17T00:21:50+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17995331300941767",
+          "username": "gastondjames",
+          "text": "Me llamo mercado libre q compre un aire acondicionado...",
+          "timestamp": "2026-04-17T17:57:03+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17938034460199016",
+          "username": "sam_av24",
+          "text": "Fan de la blusa",
+          "timestamp": "2026-04-19T12:13:21+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18354790624238564",
+          "username": "isaias_vd19es",
+          "text": "Día 17 hasta que bethcast me saludé",
+          "timestamp": "2026-04-17T01:56:48+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18075430895632714",
+          "username": "jalfonso_xd",
+          "text": "No solo da grandes datos curiosos sino sabios consejos financieros ☝🏼🤓",
+          "timestamp": "2026-04-17T00:32:15+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18097351961033221",
+          "username": "jonathan_zxj",
+          "text": "Buena tardes hablo con Pancho? 🗣️",
+          "timestamp": "2026-04-17T01:38:44+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 0,
+        "posting_day": "Friday",
+        "caption_length": 79,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.2727272727272727
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/674515920_927154940096511_7414752463570168282_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg3NjkyMTM5Nzg4NTM4MTMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=cmxXfg-l00IQ7kNvwE7ySHw&_nc_oc=AdrAkzC4lSe5FfTjBKhdELL5DxmwwQE_1m4EGP4K55GpZXaexEuj9e-ZG2SkbHcqqss&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af3U6JO1Y-W70wDMJGDSPlE4pYfCr_rheySgFP4B--3G2A&oe=69F1E9DE"
+    },
+    {
+      "post_id": "3874808640935094995",
+      "shortcode": "DXGFe3njOrT",
+      "timestamp": "2026-04-14T02:22:53+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Creditos a la chica que lo hizo en ingles \n#reels #reelsinstagram",
+      "caption_clean": "Creditos a la chica que lo hizo en ingles \n#reels #reelsinstagram",
+      "hashtags": [
+        "reels",
+        "reelsinstagram"
+      ],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 1001370,
+        "comments_count": 2687
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "moderado",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17926861635090717",
+          "username": "gon1822",
+          "text": "Mas años en relación significa una persona fiel y q sabe cuidar y respetar",
+          "timestamp": "2026-04-14T15:56:30+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18141302215506173",
+          "username": "_cesarp7",
+          "text": "Más años de relación que experiencia laboral tiene😅",
+          "timestamp": "2026-04-14T02:46:22+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18002500334858064",
+          "username": "laura_viviendo_al_dia",
+          "text": "No entendi 🙂",
+          "timestamp": "2026-04-14T02:40:56+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17900248956261348",
+          "username": "aris.woessner",
+          "text": "Por eso evito decir que tuve una relación de 8 años 😐",
+          "timestamp": "2026-04-14T17:11:10+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18104064758501482",
+          "username": "krlamgt",
+          "text": "ay yo solo 1, 13 años y 4 casada :)",
+          "timestamp": "2026-04-14T03:35:42+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17953659180120736",
+          "username": "yair.gorchoff",
+          "text": "Jajajaj yo no entiendo como hacen para tener relaciones de 9 añoss",
+          "timestamp": "2026-04-14T02:23:42+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18172928035398803",
+          "username": "lazarobray.17",
+          "text": "Yo quisiera durar esos años de relación. 😂😂😢😢",
+          "timestamp": "2026-04-14T02:24:35+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18194636710363584",
+          "username": "supersoldiers_weightlifting",
+          "text": "",
+          "timestamp": "2026-04-20T00:32:50+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18006178985707013",
+          "username": "christian_siuuu7_",
+          "text": "9 años? Ni que fuera sentencia de cárcel con razón salió corriendo.😂",
+          "timestamp": "2026-04-14T02:50:12+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18016105379833191",
+          "username": "ostarita_dj",
+          "text": "No tengas relaciones largas tan jóvenes chicas 🙌💜",
+          "timestamp": "2026-04-14T06:38:20+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Tuesday",
+        "caption_length": 65,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.18181818181818182
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/670878283_978029927902551_2493191935023773168_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg3NDgwODY0MDkzNTA5NDk5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=513e1DyrfDQQ7kNvwG5Zlfj&_nc_oc=Adou84fzfNuwxzzHuO37XmON2LM2QR6xYbIsgJwTYlrAJOkZex2fr-buPfcbCOeS4k8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af1cKyVs2Ri3eVCXgkC3uB9pVnzM5mshVua3U2YbjfzSzw&oe=69F1F13F"
+    },
+    {
+      "post_id": "3871910397851005211",
+      "shortcode": "DW7yf4aDPEb",
+      "timestamp": "2026-04-10T02:22:41+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Esos son los reales \n#reels #reelsintagram",
+      "caption_clean": "Esos son los reales \n#reels #reelsintagram",
+      "hashtags": [
+        "reels",
+        "reelsintagram"
+      ],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 1148699,
+        "comments_count": 2114
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18036386975792175",
+          "username": "roman_rdz23",
+          "text": "Porque caminan a lados contrarios?? xd",
+          "timestamp": "2026-04-10T02:31:09+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18094362146132798",
+          "username": "dominika.en.mexico",
+          "text": "Beth explicando cómo funcionan el 90% de las discusiones en el internet 👏",
+          "timestamp": "2026-04-10T02:31:07+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18346730791208905",
+          "username": "elmariana_meridayuc",
+          "text": "Ellas son Beth y Cast? 👀✨",
+          "timestamp": "2026-04-10T02:29:31+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18150917311417070",
+          "username": "fedevarza",
+          "text": "Si soy",
+          "timestamp": "2026-04-10T18:55:21+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17910047100376189",
+          "username": "whoisthis__21mb",
+          "text": "Desde cuando habían dos Beth ??",
+          "timestamp": "2026-04-10T02:25:38+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17859120312581946",
+          "username": "mnlz_.th",
+          "text": "Se duplicaron 🤩🌹",
+          "timestamp": "2026-04-10T02:26:29+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17968555143013411",
+          "username": "menagv_",
+          "text": "Yyyy el mariana le dijo amorrrr, ya confírmenlooo😩",
+          "timestamp": "2026-04-10T06:46:16+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18085613783605702",
+          "username": "elbetosalazar_",
+          "text": "HALLIE SOMOS GEMELAS",
+          "timestamp": "2026-04-10T02:32:54+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18064521410678673",
+          "username": "snizzle_01",
+          "text": "Como llega tanta gente en 4 minutos 😱😱",
+          "timestamp": "2026-04-10T02:25:45+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18100729102983033",
+          "username": "janssenrc",
+          "text": "Yo igual me encabrone 😔🥀💔",
+          "timestamp": "2026-04-10T03:42:36+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Friday",
+        "caption_length": 42,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.3333333333333333
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/669051014_1958781561600503_3745525169518487783_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg3MTkxMDM5Nzg1MTAwNTIxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=mcTevsD6CewQ7kNvwER-JM_&_nc_oc=AdpVAOHHM167Wl10kkX11bI7lTczPdzUZJPNap8XfaWxeHRXvgsEdjri5m8nO8lKe7U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af3dfl6rGo6_hPecebcd3OjNzQmuUNXUbUzg1PSwZp5d7Q&oe=69F1F19B"
+    },
+    {
+      "post_id": "3869667191696726537",
+      "shortcode": "DWz0c74ERoJ",
+      "timestamp": "2026-04-07T00:17:04+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Lo que las mujeres hacen en el baño es un misterio \n#reels #reelsintagram #publicidad #AntesDeAnthelios #MELAB3Serum @larocheposay",
+      "caption_clean": "Lo que las mujeres hacen en el baño es un misterio \n#reels #reelsintagram #publicidad #AntesDeAnthelios #MELAB3Serum @larocheposay",
+      "hashtags": [
+        "reels",
+        "reelsintagram",
+        "publicidad",
+        "antesdeanthelios",
+        "melab3serum"
+      ],
+      "emojis": [],
+      "mentions": [
+        "larocheposay"
+      ],
+      "engagement": {
+        "likes_count": 413500,
+        "comments_count": 1019
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "moderado",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17947708968138218",
+          "username": "diego_mog",
+          "text": "Sigo esperando afuera del baño we",
+          "timestamp": "2026-04-07T00:26:21+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18097470971060136",
+          "username": "debbie_violin",
+          "text": "El anuncio que me acabo de tragar😂",
+          "timestamp": "2026-04-07T00:20:33+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18051107381711584",
+          "username": "celepamio",
+          "text": "estás publicidades son las que veo🙂‍↕️🙂‍↕️🙂‍↕️",
+          "timestamp": "2026-04-07T04:27:47+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18312235897275308",
+          "username": "skinny_el_flaco",
+          "text": "Jajaja si",
+          "timestamp": "2026-04-07T21:35:38+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17993014817943945",
+          "username": "eldelosletreros",
+          "text": "Efectivamente caballeros, nos dio ejemplo, drama, historia y publicidad 👌😅",
+          "timestamp": "2026-04-07T00:21:55+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17919293175324025",
+          "username": "darkniela",
+          "text": "Si me pagaran $1 por cada anuncio que me he comido de Beth… si tendría muchos pesos la vdd, para unas papitas o algo jajajaja",
+          "timestamp": "2026-04-07T03:52:54+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18121767640527564",
+          "username": "edehmelendez",
+          "text": "La voz consciente del grupo 😎",
+          "timestamp": "2026-04-07T00:23:33+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18099291038052065",
+          "username": "fererexw",
+          "text": "Seria yo😢",
+          "timestamp": "2026-04-09T22:41:03+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17846497797695096",
+          "username": "horn_anita2.0",
+          "text": "Esos son los mejores 😌",
+          "timestamp": "2026-04-07T23:59:58+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18355851934234934",
+          "username": "_memes_del_angelo_",
+          "text": "Una publicidad disfrazada en meme, caímos ante la mejor señores 🙂‍↕️",
+          "timestamp": "2026-04-07T00:29:35+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 0,
+        "posting_day": "Tuesday",
+        "caption_length": 130,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.29411764705882354
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/659468231_1256173130027923_5953164534812135540_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg2OTY2NzE5MTY5NjcyNjUzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=9FBv5sU6o_QQ7kNvwHylegB&_nc_oc=Adr4hhAsJWyGFTmFpC_gH5PZozt6f4OlDkkVi9SquFktG-beQ-1cFVuFjP78DIPqNEo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af0LKkcrLnDSb_L_ij7DMZWPOgsV-kq0xCNeVjG-bejDCg&oe=69F1DC39"
+    },
+    {
+      "post_id": "3864666701532090711",
+      "shortcode": "DWiDeOgGdFX",
+      "timestamp": "2026-03-31T02:30:37+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Ya me vi en el futuro \n#reels #reelsinstagram",
+      "caption_clean": "Ya me vi en el futuro \n#reels #reelsinstagram",
+      "hashtags": [
+        "reels",
+        "reelsinstagram"
+      ],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 775287,
+        "comments_count": 2489
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17906884509385600",
+          "username": "mfer_mg_",
+          "text": "Cómo amo ese sonido 👏🤩",
+          "timestamp": "2026-03-31T03:10:55+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18126447691509003",
+          "username": "malu_angel_bueno",
+          "text": "Se pasó tu mamá 😂",
+          "timestamp": "2026-03-31T02:35:32+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18388539157153415",
+          "username": "katherin_lopez99",
+          "text": "Hey 😫 como que escuché a mi mamá 😂😂😂",
+          "timestamp": "2026-04-01T01:21:25+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17957623488085672",
+          "username": "jessicabugarink",
+          "text": "Pero veee ahi tu sabes! 🥹",
+          "timestamp": "2026-04-05T05:05:10+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18046634840521066",
+          "username": "andrelax_",
+          "text": "Esa psicología inversa se considera brujería? JAJAJAJJAA",
+          "timestamp": "2026-03-31T02:47:30+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17887842555465322",
+          "username": "audritatahis",
+          "text": "Si era diría pero estoy casada y sigue siendo ... 🙈❤️",
+          "timestamp": "2026-04-02T00:29:50+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18079642988626846",
+          "username": "un_pansito_de_dios_",
+          "text": "Estaba viendo los likes crecer lavskshs pasaron de 167 a 10 mil en 56 segundos",
+          "timestamp": "2026-03-31T02:34:42+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18189521929369414",
+          "username": "alexjjtorres",
+          "text": "Jajajaja mi mamá 24/7",
+          "timestamp": "2026-04-01T13:24:44+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18126337525601942",
+          "username": "tadeo.estrada.52",
+          "text": "A pero si no sales \"Sal, diviértete, explora el mundo\"",
+          "timestamp": "2026-03-31T03:17:40+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18109355779892011",
+          "username": "felix.mycha3l",
+          "text": "Día 1 intentando que Beth me conteste un comentario (Beth te amo cásate conmigo jjsjsj)",
+          "timestamp": "2026-03-31T02:45:28+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Tuesday",
+        "caption_length": 45,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.25
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/655475835_1853957705311438_6370441113860566942_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg2NDY2NjcwMTUzMjA5MDcxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=HLl0SfC3HK4Q7kNvwHBP6-Z&_nc_oc=Adrw9cw3VhiUo5AGsgR2yAT8gpBrWYLtpeAmuKFd8QvIAq_Y_Fln-0sEO-nH6JRIx0E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af0UtM7FOjZdbXLvi8NCv_dySvMXeULYUyMS04PSX5Qnjw&oe=69F1BF34"
+    },
+    {
+      "post_id": "3861759506745536253",
+      "shortcode": "DWXuc-Xji79",
+      "timestamp": "2026-03-27T02:16:19+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Y solo lo intente doscientos cincuenta y seis veces \n#reels #reelsintagram",
+      "caption_clean": "Y solo lo intente doscientos cincuenta y seis veces \n#reels #reelsintagram",
+      "hashtags": [
+        "reels",
+        "reelsintagram"
+      ],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 396222,
+        "comments_count": 1171
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [
+          "tristeza"
+        ],
+        "topic_tags": [],
+        "verbosity": "moderado",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18125583766587707",
+          "username": "kimmigneaultxox",
+          "text": "Una muñequita😍😍😍",
+          "timestamp": "2026-03-27T04:05:32+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18205523419334313",
+          "username": "cesar.hm_19",
+          "text": "👏👏👏",
+          "timestamp": "2026-03-27T03:27:06+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17919319746127986",
+          "username": "yoshibart_13",
+          "text": "😍😍😍 HERMOSA",
+          "timestamp": "2026-03-27T02:16:38+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18103268708489587",
+          "username": "panchoaag",
+          "text": "🌹🤍🌹",
+          "timestamp": "2026-04-17T02:52:58+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18116371093637760",
+          "username": "vveronicamunoz",
+          "text": "que bellezaaaaa",
+          "timestamp": "2026-03-27T02:48:41+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18069400271290700",
+          "username": "att._sam14",
+          "text": "A donde tan lindaaa💗💗",
+          "timestamp": "2026-03-27T02:40:45+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18121054441720452",
+          "username": "braii_.miiranda__",
+          "text": "Salúdame 🫵🏻eres mi fan N°1🫵🏻❤️",
+          "timestamp": "2026-03-27T02:44:25+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17979331778830868",
+          "username": "lorenabim",
+          "text": "Amé el look",
+          "timestamp": "2026-03-27T02:34:30+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18148405543472052",
+          "username": "alexjaya600",
+          "text": "😍😍😍😍😍😍😍😍😍",
+          "timestamp": "2026-04-07T00:59:33+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17987598068978650",
+          "username": "jairzinho0_7",
+          "text": "Mi amada esposa cada vez más preciosa la amo😍",
+          "timestamp": "2026-03-27T02:37:19+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Friday",
+        "caption_length": 74,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.18181818181818182
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/658054849_1445998880320948_5395846214978207471_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzg2MTc1OTUwNjc0NTUzNjI1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=XH6uXP8_AroQ7kNvwF4Kq2F&_nc_oc=Adqh5Zz3cQuI_5_89f6bog0VFO0eoWKZ7ERy5QCcZfLu7TIjn4UIezpxCdxJQRI5qqM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af0nI-AIs038xOM37ikUyY_us75rBYtz1oN6AFLDT1JKEQ&oe=69F1E8E4"
+    },
+    {
+      "post_id": "3856691616346423152",
+      "shortcode": "DWFuJdojj9w",
+      "timestamp": "2026-03-20T02:26:11+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Contratado de por vida \n#reels #reelsinstagram",
+      "caption_clean": "Contratado de por vida \n#reels #reelsinstagram",
+      "hashtags": [
+        "reels",
+        "reelsinstagram"
+      ],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 624224,
+        "comments_count": 899
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18067754777297647",
+          "username": "jalfonso_xd",
+          "text": "yo en mi primera entrevista: “Para comprarme la nueva play”",
+          "timestamp": "2026-03-20T02:29:44+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17946582252130959",
+          "username": "kduran.72",
+          "text": "❤️❤️",
+          "timestamp": "2026-03-20T02:27:24+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17921356518270624",
+          "username": "litzyagv",
+          "text": "Empezaré a practicar para mi nueva entrevista",
+          "timestamp": "2026-03-20T02:27:47+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17939802801178721",
+          "username": "viiry_delxa",
+          "text": "🤣😂🤣😂",
+          "timestamp": "2026-03-23T08:13:43+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18059728082401843",
+          "username": "manuel.tl08",
+          "text": "YO 🤣❤️",
+          "timestamp": "2026-03-21T20:35:50+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18086628920262793",
+          "username": "maryury.salvarez",
+          "text": "Llegue de primeraaa pídeme un saludo mi amor",
+          "timestamp": "2026-03-20T02:26:59+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18063035462677078",
+          "username": "roman_rdz23",
+          "text": "Pero entonces si te aceptaron??",
+          "timestamp": "2026-03-20T02:32:27+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18051648578495808",
+          "username": "edits.beth_",
+          "text": "Hola Beth cats tqmmmmm",
+          "timestamp": "2026-03-20T02:30:39+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18172455673399085",
+          "username": "mniandi.thv_",
+          "text": "“va\" JAJAJAJJA me encantó",
+          "timestamp": "2026-03-20T02:29:27+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17882489559504417",
+          "username": "viiry_delxa",
+          "text": "La 2, yo también. Yo entiendo que puede ser una idea algo antigua y quizás hay quién no lo entienda, pero seriamente estoy segura de que no quiero morir de hambre jeje 😅 así que a trabajar uwu porque las cosas no se pagan solas ni llegan de la nada.",
+          "timestamp": "2026-03-23T08:16:28+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Friday",
+        "caption_length": 46,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.3333333333333333
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/655936603_979431555021662_7519396410307879291_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzg1NjY5MTYxNjM0NjQyMzE1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=oYfjowQPBn0Q7kNvwHWHYnp&_nc_oc=Ado-axkPPho0QTd1wN-1RqUC6mkj6NtyFcICH_W2wG3nS5AP12zXuD8U4aYGed_4bLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=0KOk88kcli9ZV1_zdScDbw&_nc_ss=7a22e&oh=00_Af0oPnJjJDHyTCk-_H34pqYEeUS1yJ0bHRo-j49WPFh4HA&oe=69F1C940"
+    }
+  ],
+  "aggregate_features": {
+    "posting_frequency_days": 3.44,
+    "most_active_hour": 2,
+    "most_active_day": "Friday",
+    "avg_likes_per_post": 690787.4,
+    "avg_comments_per_post": 2065.6,
+    "style": {
+      "avg_caption_length": 63.4,
+      "avg_hashtags": 2.4,
+      "avg_emojis": 0.0
+    }
+  },
+  "personality_report": {
+    "summary": "La personalidad del propietario del perfil de Instagram se caracteriza por ser una persona creativa, juguetona y aparentemente extravertida, con una tendencia a interactuar con su audiencia y generar contenido que provoque comentarios y reacciones. Su capacidad para crear contenido atractivo y su presencia en línea sugieren cierto grado de apertura y conscientiousness. Sin embargo, la interpretación de su personalidad a través de su actividad en Instagram podría verse influenciada por varios sesgos.",
+    "traits": {
+      "openness": {
+        "score": 0.8,
+        "interpretation": "La creatividad en sus publicaciones y la variedad de temas que aborda sugieren un alto nivel de apertura.",
+        "confidence": 0.7,
+        "evidence": [
+          "contenido creativo",
+          "variedad de temas"
+        ]
+      },
+      "conscientiousness": {
+        "score": 0.6,
+        "interpretation": "La regularidad en la publicación de contenido y la interacción con su audiencia indica un cierto nivel de conscientiousness, aunque podría ser más alta si consideramos la gestión de una presencia en línea.",
+        "confidence": 0.6,
+        "evidence": [
+          "regularidad en publicaciones",
+          "interacción con la audiencia"
+        ]
+      },
+      "extraversion": {
+        "score": 0.9,
+        "interpretation": "La cantidad de seguidores, likes y comentarios que recibe, así como el tipo de contenido que publica, sugieren una personalidad extravertida que busca y disfruta de la atención y la interacción social.",
+        "confidence": 0.8,
+        "evidence": [
+          "alto engagement",
+          "contenido interactivo"
+        ]
+      },
+      "agreeableness": {
+        "score": 0.7,
+        "interpretation": "Aunque la mayoría del contenido parece ser positivo o neutral, la ausencia de conflictos o críticas en los comentarios podría indicar que el propietario del perfil tiende a ser agradable y evitar conflictos.",
+        "confidence": 0.5,
+        "evidence": [
+          "contenido positivo o neutral",
+          "ausencia de conflictos en comentarios"
+        ]
+      },
+      "neuroticism": {
+        "score": 0.4,
+        "interpretation": "No hay evidencia clara de neuroticismo en el perfil, ya que la mayoría del contenido parece ser ligero y humorístico. Sin embargo, la interpretación podría estar sesgada por la naturaleza del contenido en línea.",
+        "confidence": 0.4,
+        "evidence": [
+          "contenido ligero y humorístico"
+        ]
+      }
+    },
+    "academic_notes": "La relación entre indicadores digitales y rasgos de personalidad es un área de estudio en constante evolución. La análisis de perfiles en redes sociales puede proporcionar insights sobre la personalidad de los individuos, pero debe considerarse con cautela debido a los posibles sesgos y limitaciones del método.",
+    "potential_biases": [
+      "Sesgo de selección: El contenido publicado podría ser selectivo y no reflejar toda la personalidad.",
+      "Sesgo de presentación: La imagen que se proyecta en línea podría no corresponder a la realidadoffline.",
+      "Sesgo cultural: Los patrones de comportamiento y expresión en línea pueden variar según la cultura y el contexto."
+    ],
+    "disclaimer": "Propósito académico, no diagnóstico médico."
+  }
+}

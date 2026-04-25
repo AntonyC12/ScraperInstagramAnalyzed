@@ -1,0 +1,1258 @@
+{
+  "metadata": {
+    "scraped_at": "2026-04-25T00:03:34.588799+00:00",
+    "target_account": "erikavelez",
+    "scraper_version": "2.1.0",
+    "posts_requested": 10,
+    "posts_obtained": 10,
+    "comments_per_post": 10,
+    "total_comments_obtained": 100,
+    "session_valid": true,
+    "app_id_used": "936619743392459"
+  },
+  "profile": {
+    "username": "erikavelez",
+    "full_name": "Erika Velez",
+    "is_private": false,
+    "is_verified": true,
+    "is_business": false,
+    "followers_count": 2426248,
+    "following_count": 1128,
+    "posts_count": 4002,
+    "bio": "@mebyerikavelez @e.trends.ec \nEntradas para “Ni contigo ni sin ti” ⬇️",
+    "external_url": "https://www.tiktok.com/@erikavelezz82?_t=8hVZ3fGfVqQ&_r=1",
+    "profile_pic_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.2885-19/13534051_1780671398834512_1384856687_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTQuYzIifQ&_nc_ht=instagram.fuio13-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gEGPymClpQ7xf8coUAbh_3g6SSTXlEc0mbJnIc8XBKBemrr3XuCYBqfMuyhAvLXTec&_nc_ohc=Ae3oQyODB3oQ7kNvwFDbHvV&_nc_gid=tiboX_ut7-5PfiPdqrTbfw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0jYanY8tN8y0VpG1VYnozfUmX3PuwNiuOQEMYrmQXOZA&oe=69F1C1FB&_nc_sid=8b3546",
+    "profile_pic_hd_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.2885-19/13534051_1780671398834512_1384856687_a.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTQuYzIifQ&_nc_ht=instagram.fuio13-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gEGPymClpQ7xf8coUAbh_3g6SSTXlEc0mbJnIc8XBKBemrr3XuCYBqfMuyhAvLXTec&_nc_ohc=Ae3oQyODB3oQ7kNvwFDbHvV&_nc_gid=tiboX_ut7-5PfiPdqrTbfw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1q6TvQsgJIRMCH8Yhly0CrJm6OoEIdK1xK4vUm6ZLYsQ&oe=69F1C1FB&_nc_sid=8b3546",
+    "declared_context": {
+      "language": "Spanish",
+      "country": null,
+      "city": null,
+      "age_range": null,
+      "education_level": null,
+      "occupation": null
+    }
+  },
+  "data_quality": {
+    "first_post_date": "2026-03-18T22:18:52+00:00",
+    "last_post_date": "2025-10-30T15:07:54+00:00",
+    "posts_requested": 10,
+    "posts_obtained": 10,
+    "comments_obtained": 100
+  },
+  "posts": [
+    {
+      "post_id": "3754881418938924043",
+      "shortcode": "DQcBMGdkbwL",
+      "timestamp": "2025-10-30T15:07:54+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "En Banco Guayaquil creemos en la gente real. Los que se levantan y vuelven a intentarlo sin miedo. ✨ Por eso hoy decimos con orgullo: Primero Erika 💗 \n\n#BancoGuayaquil #ElMejorBancoParaTi",
+      "caption_clean": "En Banco Guayaquil creemos en la gente real. Los que se levantan y vuelven a intentarlo sin miedo. ✨ Por eso hoy decimos con orgullo: Primero Erika 💗 \n\n#BancoGuayaquil #ElMejorBancoParaTi",
+      "hashtags": [
+        "bancoguayaquil",
+        "elmejorbancoparati"
+      ],
+      "emojis": [
+        "✨",
+        "💗"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 16228,
+        "comments_count": 1159
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "moderado",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18071152757340418",
+          "username": "erikavelez",
+          "text": "Gracias @bancoguayaquil por creer en mí, por promover la empatía, las oportunidades y abrazarme, a todo el equipo, gracias por estar tan emocionados como yo y el trabajo tan apasionado que realizan❤️",
+          "timestamp": "2025-10-30T16:13:00+00:00",
+          "is_owner_comment": true
+        },
+        {
+          "comment_id": "17919974898192297",
+          "username": "turcacat",
+          "text": "Amo!!!! Y hasta Julito ahí!! Te adoro mujer @erikavelez",
+          "timestamp": "2025-10-31T16:55:45+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18309890347217863",
+          "username": "alexrennu",
+          "text": "Queen 👸 🩷",
+          "timestamp": "2025-10-31T01:50:20+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18114556237494463",
+          "username": "daniela_baque",
+          "text": "👏👏👏👏Así es !!! 😘😘",
+          "timestamp": "2025-10-31T02:42:19+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17978763785925016",
+          "username": "juliocesarcevalloss",
+          "text": "Bebe! Eres y siempre serás la Queen!!😍. Te amoooooo, y sé que esto es solo el comienzo de un millón de éxitos más. 💫💕 @bancoguayaquil  lo máximo!!",
+          "timestamp": "2025-10-30T18:26:05+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17929976070131139",
+          "username": "rendonandrea",
+          "text": "Amo esto!!! 🩷 Y me encanta que salga @juliocesarcevalloss 🤩",
+          "timestamp": "2025-10-31T03:18:24+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17854445826513599",
+          "username": "jorgecampozanoc",
+          "text": "Te amo ❤️❤️❤️",
+          "timestamp": "2025-10-31T04:37:57+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18537888745002457",
+          "username": "aleechblog",
+          "text": "👏👏👏",
+          "timestamp": "2025-10-30T17:29:41+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17880715191409435",
+          "username": "utitorresi",
+          "text": "😍😍 @erikavelez",
+          "timestamp": "2025-10-31T01:02:55+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18144374773391318",
+          "username": "gustavosegale",
+          "text": "👏👏👏👏👏👏👏👏",
+          "timestamp": "2025-10-31T00:41:21+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 15,
+        "posting_day": "Thursday",
+        "caption_length": 187,
+        "emoji_density": 0.06666666666666667,
+        "hashtag_density": 0.06666666666666667
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/573053758_18534875110035497_4714945805390231775_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzc1NDg4MTQxODkzODkyNDA0MzE4NTM0ODc1MTA0MDM1NDk3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=QjJ2s6zSPZ8Q7kNvwHN8BXU&_nc_oc=AdoOOlHFzmfFKoxryMANtYABAoxp2Uiye7YrQ_3JUkIxsYT7ASv9e8P2ns4GU8pUios&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af3y3U6dgYUzYMleXPnihq3XwtvwyUV0FZOu5KNM2Bn_Hw&oe=69F1DF48"
+    },
+    {
+      "post_id": "3720814125615221009",
+      "shortcode": "DOi_LvIjQkR",
+      "timestamp": "2025-09-13T15:00:00+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Hoy cierro una etapa que me regaló 6 años de aprendizajes, alegrías y personas que se volvieron familia. Me voy con el corazón lleno y con orgullo de todo lo que juntos logramos. Los amo! ❤️",
+      "caption_clean": "Hoy cierro una etapa que me regaló 6 años de aprendizajes, alegrías y personas que se volvieron familia. Me voy con el corazón lleno y con orgullo de todo lo que juntos logramos. Los amo! ❤️",
+      "hashtags": [],
+      "emojis": [
+        "❤️"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 101294,
+        "comments_count": 3895
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [
+          "amor"
+        ],
+        "topic_tags": [
+          "vida personal",
+          "familia"
+        ],
+        "verbosity": "extenso",
+        "reflexivity": "impulsivo",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18147319636405408",
+          "username": "johntamusica",
+          "text": "Fue increíble conocerte y reírse tanto contigo en las cocinas! 🥹💜 síguela rompiendo queen! Tqm 🫶🏼👸🏼",
+          "timestamp": "2025-09-13T15:30:02+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18069382591970969",
+          "username": "pamecantos73",
+          "text": "También soy de Manta, pero fue MasterChef la que me mostró el bello ser humano que eres, la empatía y sensibilidad que transmitias se sintió siempre sincera. Eres luz y sé que Dios tiene grandes cosas reservadas para tí. Que un tropiezo solo sea un impulso para cosas más grandes. Las pruebas difíciles siempre te mostrarán a los verdaderos. ❤️✨",
+          "timestamp": "2025-09-15T05:09:40+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18239954014291201",
+          "username": "angelitamov",
+          "text": "Eres maravillosa ❤️",
+          "timestamp": "2025-09-13T15:29:03+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17846026848543147",
+          "username": "flacaarellano",
+          "text": "Gracias por tu energía y luz ✨ Ha sido un regalo compartir este viaje contigo 😘",
+          "timestamp": "2025-09-13T17:59:54+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18105376339512549",
+          "username": "lau_venciendolaem",
+          "text": "Eres todo! Por donde pasas siembras sonrisas y cultivas éxitos, siempre deseándote lo mejor te mando mil besos.",
+          "timestamp": "2025-09-15T21:51:03+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18319439716213595",
+          "username": "giordyterapeuta",
+          "text": "Son una seguidora de toda tu carrera, te he visto crecer, te vi brillar con luz propia en Masterchef, realmente el centro del programa, en mi casa siempre te enviamos buena vibra, gracias por todo. Dios seguirá bendiciendo tu camino, porque tu ya eres estrella, no necesitas que nadie te lo haga creer. Sigue brillando hermosa mujer, ti si me representas, mujer ecuatoriana. ❤️",
+          "timestamp": "2025-09-13T18:42:40+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18077945833989030",
+          "username": "jj_aa_cc_ee",
+          "text": "No deberían sacarla ..nadie la va a superar @erikavelez jamás Eres y serás insuperable, inigualable, el programa y canal perdió.  Los motivos en el fondo sabemos, te deseo lo mejor de lo mejor . Bendiciones siempre ..un abrazo 😍 ...",
+          "timestamp": "2025-09-15T11:11:08+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18100973827612796",
+          "username": "claudia_schiess",
+          "text": "BELLA! Cada cierre es la semilla de algo más grande que está por florecer 😉Brilla siempre ✨",
+          "timestamp": "2025-09-13T23:26:43+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17845991190549198",
+          "username": "mayrajoficial",
+          "text": "Donde sea Brillarás ❤️ Éxitos siempre !!!",
+          "timestamp": "2025-09-13T15:26:19+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17908936521230141",
+          "username": "lettyjaneth2867",
+          "text": "Fue un comenzó difícil pero como siempre usted brilló Erika Vélez y salió por la puerta grande como salen todas las personas que cumplen su meta y saben cuando tienen que decir hasta pronto siga cosechando éxitos por que usted brilla con luz propia éxitos bendiciones talento Ecuatoriano si existe ♥️🙏👍",
+          "timestamp": "2025-09-15T18:28:46+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 15,
+        "posting_day": "Saturday",
+        "caption_length": 190,
+        "emoji_density": 0.027777777777777776,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/545278180_1296084902010169_7649594801327853357_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzcyMDgxNDEyNTYxNTIyMTAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=pbzsJW5RmqcQ7kNvwEC9It3&_nc_oc=AdrhcWLH7S4ouyESK2gTS9nw4i43wOA30zDTQURblsqm6N5q47DQEOeH5mb_mmDMqw0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af08OxlDaV7ze_6bENK3M7C4DuE8cdaYkgDYDAo_rkJ1KA&oe=69F1C619"
+    },
+    {
+      "post_id": "3880594823065459563",
+      "shortcode": "DXapG5qCVtr",
+      "timestamp": "2026-04-22T01:59:15+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Cuándo veo que me voy a quedar sin desayuno 🍳 \n#china #beijing #autoshow",
+      "caption_clean": "Cuándo veo que me voy a quedar sin desayuno 🍳 \n#china #beijing #autoshow",
+      "hashtags": [
+        "china",
+        "beijing",
+        "autoshow"
+      ],
+      "emojis": [
+        "🍳"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 6067,
+        "comments_count": 154
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "moderado",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18100027429821402",
+          "username": "emiliano_riva10",
+          "text": "Fuaaa Que Hermosa 😍😍",
+          "timestamp": "2026-04-22T11:49:09+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18022001804827642",
+          "username": "marlene_scigliano",
+          "text": "Hermosa 😍",
+          "timestamp": "2026-04-22T02:30:38+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18076432487193529",
+          "username": "taniaisabelpantoja",
+          "text": "Bellaaaa❤️",
+          "timestamp": "2026-04-24T00:25:11+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18052799171534411",
+          "username": "joseparralesparrales",
+          "text": "💛👑😘😍❤️",
+          "timestamp": "2026-04-23T11:17:13+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18092441174174042",
+          "username": "carlosalejandroverag",
+          "text": "❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+          "timestamp": "2026-04-22T04:00:32+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17938480578035708",
+          "username": "marioalbertomaciasintriago",
+          "text": "❤️❤️❤️❤️❤️",
+          "timestamp": "2026-04-22T08:48:21+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17972931066010727",
+          "username": "anijess25",
+          "text": "😍👏 siempre linda",
+          "timestamp": "2026-04-22T14:47:46+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18098989091006399",
+          "username": "lin.1j",
+          "text": "❤️ Bella ❤️❤️",
+          "timestamp": "2026-04-22T02:01:08+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18076840391558970",
+          "username": "marioalbertomaciasintriago",
+          "text": "😍😍😍😍😍",
+          "timestamp": "2026-04-22T08:48:23+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17860332726626994",
+          "username": "juankisalguero",
+          "text": "Bella como siempre ❤️",
+          "timestamp": "2026-04-22T18:28:04+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 1,
+        "posting_day": "Wednesday",
+        "caption_length": 72,
+        "emoji_density": 0.07692307692307693,
+        "hashtag_density": 0.23076923076923078
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/670510168_18589641106034431_7818608888356007858_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzg4MDU5NDgyMzA2NTQ1OTU2MzE4NTg5NjQxMDk3MDM0NDMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHgxMjgwLnNkci5DMyJ9&_nc_ohc=2aiBBXeK228Q7kNvwGvI24v&_nc_oc=Adp2Jxn5Pe_V58fuF7sgsqfqB3YOquTsFmWKxkQjnHufIMheqyRHbk6rAGBhC7n16CU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af3ueBv34GtNlzM0abazgdojmP3yTjFJIFKzwDMCCKUbNg&oe=69F1C30A"
+    },
+    {
+      "post_id": "3876107409064850916",
+      "shortcode": "DXKsybskfXk",
+      "timestamp": "2026-04-15T21:23:01+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Hay mujeres que no solo entran a un lugar… lo transforman. ✨\n\nEste 7 de mayo, nos acompaña @erikavelez una mujer que ha construido su nombre con presencia, autenticidad y poder.\n\nEn su conferencia, descubrirás cómo dominar tu narrativa pública y convertir tu imagen en tu mayor fortaleza.\n\n🎟️ Preventa disponible hasta el 19 de abril en TicketPago\n\nNo te quedes fuera de esta experiencia que te inspirará a ocupar tu lugar con seguridad.\n\n#elartedeserimparable #erikavelez",
+      "caption_clean": "Hay mujeres que no solo entran a un lugar… lo transforman. ✨\n\nEste 7 de mayo, nos acompaña @erikavelez una mujer que ha construido su nombre con presencia, autenticidad y poder.\n\nEn su conferencia, descubrirás cómo dominar tu narrativa pública y convertir tu imagen en tu mayor fortaleza.\n\n🎟️ Preventa disponible hasta el 19 de abril en TicketPago\n\nNo te quedes fuera de esta experiencia que te inspirará a ocupar tu lugar con seguridad.\n\n#elartedeserimparable #erikavelez",
+      "hashtags": [
+        "elartedeserimparable",
+        "erikavelez"
+      ],
+      "emojis": [
+        "✨",
+        "🎟️"
+      ],
+      "mentions": [
+        "erikavelez"
+      ],
+      "engagement": {
+        "likes_count": 6530,
+        "comments_count": 97
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [
+          "tristeza"
+        ],
+        "topic_tags": [
+          "vida personal",
+          "espiritualidad"
+        ],
+        "verbosity": "extenso",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18089108480203446",
+          "username": "flacaguerrerog",
+          "text": "Bravo mi ñaña 👏",
+          "timestamp": "2026-04-16T03:01:18+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18093739094110290",
+          "username": "alonsoherran",
+          "text": "👏❤️👏❤️❤️",
+          "timestamp": "2026-04-16T02:46:57+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17946005082157746",
+          "username": "carolinaguirre32",
+          "text": "La máxima 😍👏👏👏",
+          "timestamp": "2026-04-16T00:44:23+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17948162793140016",
+          "username": "ilemakeup",
+          "text": "👏🏻👏🏻👏🏻",
+          "timestamp": "2026-04-16T00:37:42+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17894188692311082",
+          "username": "emiquezada",
+          "text": "OMG gracias por ser parte de esto @erikavelez te adoro❤️",
+          "timestamp": "2026-04-15T23:55:36+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18097435535046644",
+          "username": "danielzeav",
+          "text": "Las Mejores con Las Mejores @erikavelez @mhellergroup @mheller_ec 🤩🤩🤩👏🏻👏🏻👏🏻✨",
+          "timestamp": "2026-04-15T21:59:12+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18343921804300552",
+          "username": "tatizamve",
+          "text": "Ese  es el día de mi cumpleaños mi reina @erikavelez",
+          "timestamp": "2026-04-16T00:04:18+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18121753612719025",
+          "username": "janina__fierro",
+          "text": "@erikavelez nuestro orgullo Ecuatoriano 😍 guapisima ❤️",
+          "timestamp": "2026-04-15T23:55:08+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18090131834179400",
+          "username": "angiemmolina",
+          "text": "Eres bella firma aquí ___________________________",
+          "timestamp": "2026-04-16T02:39:18+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18111068740826687",
+          "username": "carolinamejia188",
+          "text": "🙌 Ecuador cuenta con mucho poder femenino, felicidades por sus logros Erika, su capacidad demuestra firmeza y brillo, Dios la siga bendiciendo en todos sus propósitos 🌹",
+          "timestamp": "2026-04-16T00:25:39+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 21,
+        "posting_day": "Wednesday",
+        "caption_length": 472,
+        "emoji_density": 0.02631578947368421,
+        "hashtag_density": 0.02631578947368421
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/670840266_18069651410386939_8995910990816534595_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzg3NjEwNzQwOTA2NDg1MDkxNjE4MDY5NjUxNDA3Mzg2OTM5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=eFrZwnwF3QUQ7kNvwFUe0Pg&_nc_oc=AdpPJHOKjVUiX1hl6i8EYJ24w1iFJwUczfIALxbWMmgohzCm0vnhhp9oKES3Id9JXvI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af0u5ERiK74SJv8ufxzTmkbB_xYm7U3FqsC_nWYyam0tIQ&oe=69F1E017"
+    },
+    {
+      "post_id": "3867229390372191889",
+      "shortcode": "DWrKKQeFb6R",
+      "timestamp": "2026-04-03T15:21:29+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "Quién diría que esa niña que hoy veo reflejada iba a vivir tantas vidas…\nNo puedo estar más agradecida con la vida: por lo bonito que me regaló y por lo difícil que me transformó.\n\nGracias a las personas que han estado a mi lado, a quienes creyeron en mí incluso cuando yo dudaba.\nA mi familia, mis amigos y a todos los que, durante estos 25 años de carrera, han seguido mi camino, han valorado mi trabajo y me han llenado el corazón con sus mensajes.\n\nHoy celebro a esa niña de sueños grandes… la que nunca se rindió, la que siempre fue leal a sí misma.\nPorque aunque hubo caos, caídas y momentos duros, siempre volvió a salir el sol… y cada vez brilló más fuerte ☀️\n\nHoy tengo cosas que un día solo fueron sueños… y que sé que muchos anhelan.\nY lejos de verlo con ego, lo abrazo con gratitud, porque significa que he construido algo real, algo que deja huella.\n\nEste nuevo año me prometo amarme más, ser más suave conmigo, disfrutar más a los míos, viajar, vivir… y agradecer cada paso.\n\nAl final, lo que me llevo no son solo los logros, sino los recuerdos, las risas, las lágrimas… todo lo que hace que la vida valga la pena.\n\nGracias a mis seres amados, y a ustedes… que sin conocerme del todo, han decidido quedarse conmigo en este camino ❤️\n\n📸 @franklinsaltos93 \n@juliocesarcevalloss \n@melissavalverdec",
+      "caption_clean": "Quién diría que esa niña que hoy veo reflejada iba a vivir tantas vidas…\nNo puedo estar más agradecida con la vida: por lo bonito que me regaló y por lo difícil que me transformó.\n\nGracias a las personas que han estado a mi lado, a quienes creyeron en mí incluso cuando yo dudaba.\nA mi familia, mis amigos y a todos los que, durante estos 25 años de carrera, han seguido mi camino, han valorado mi trabajo y me han llenado el corazón con sus mensajes.\n\nHoy celebro a esa niña de sueños grandes… la que nunca se rindió, la que siempre fue leal a sí misma.\nPorque aunque hubo caos, caídas y momentos duros, siempre volvió a salir el sol… y cada vez brilló más fuerte ☀️\n\nHoy tengo cosas que un día solo fueron sueños… y que sé que muchos anhelan.\nY lejos de verlo con ego, lo abrazo con gratitud, porque significa que he construido algo real, algo que deja huella.\n\nEste nuevo año me prometo amarme más, ser más suave conmigo, disfrutar más a los míos, viajar, vivir… y agradecer cada paso.\n\nAl final, lo que me llevo no son solo los logros, sino los recuerdos, las risas, las lágrimas… todo lo que hace que la vida valga la pena.\n\nGracias a mis seres amados, y a ustedes… que sin conocerme del todo, han decidido quedarse conmigo en este camino ❤️\n\n📸 @franklinsaltos93 \n@juliocesarcevalloss \n@melissavalverdec",
+      "hashtags": [],
+      "emojis": [
+        "☀️",
+        "❤️",
+        "📸"
+      ],
+      "mentions": [
+        "franklinsaltos93",
+        "juliocesarcevalloss",
+        "melissavalverdec"
+      ],
+      "engagement": {
+        "likes_count": 70358,
+        "comments_count": 582
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "positivo",
+        "emotion_labels": [
+          "tristeza",
+          "amor"
+        ],
+        "topic_tags": [
+          "vida personal",
+          "trabajo/estudio",
+          "familia",
+          "espiritualidad"
+        ],
+        "verbosity": "extenso",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18090236963598949",
+          "username": "vkarauz",
+          "text": "Felicidades guapísima ! 😍😍😍😍😍😍",
+          "timestamp": "2026-04-03T15:52:02+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18044796881766722",
+          "username": "flacaguerrerog",
+          "text": "Feliz día bella y valiente mujer",
+          "timestamp": "2026-04-03T15:24:53+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18013813361684481",
+          "username": "sofiacaiche",
+          "text": "Feliz cumpleaños Diva 😍🙌 que papà Dios te dé mucho mas 🥳💃🏻",
+          "timestamp": "2026-04-03T16:34:20+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18099402745796453",
+          "username": "miguelgane",
+          "text": "Felicidades, querida ❤️",
+          "timestamp": "2026-04-03T15:47:53+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18103122551493483",
+          "username": "carlabrunoo_",
+          "text": "preciosa!!❤️❤️feliz diaaaa! que tengas un día maravilloso y que este año nuevo de vida este lleno de cosas hermosas siempre☀️💝💫",
+          "timestamp": "2026-04-03T16:44:26+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18051184691508654",
+          "username": "flor_mpalomeque",
+          "text": "Feliz cumpleaños amiga!! Que pases lindo y te engrían bastante ❤️",
+          "timestamp": "2026-04-03T16:09:35+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18443247490118346",
+          "username": "fiorellasolines",
+          "text": "Te celebramos hoy y siempre reina preciosa 😍❤️ el regalo es tenerte",
+          "timestamp": "2026-04-03T15:46:23+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18101855065939565",
+          "username": "susihidalgo",
+          "text": "Feliz y bendecido cumpleaños 🎂 mi mi preciosa❤️",
+          "timestamp": "2026-04-03T16:10:01+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18149434054481291",
+          "username": "shanynadanz",
+          "text": "Feliz día erikita querida!!!! Que viva la cumpleañera y que todas tus metas se cumplan hoy y siempre ❤️❤️❤️",
+          "timestamp": "2026-04-03T16:00:10+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17876340489439811",
+          "username": "sharoncortezz",
+          "text": "Feliz cumpleaños diosa !!!❤️❤️❤️",
+          "timestamp": "2026-04-03T15:34:12+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 15,
+        "posting_day": "Friday",
+        "caption_length": 1308,
+        "emoji_density": 0.0125,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/658739914_18585556996034431_6642165229076052349_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzg2NzIxNzg3Mjc5NjQ2NDkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTE1My5zZHIuQzMifQ%3D%3D&_nc_ohc=muZmU5SH6esQ7kNvwGP0FFn&_nc_oc=Adq7p9k47F_aaSTi_h0TQ7JH1VzBJ0W9m-wawK6T939EJ4f9YRO9YvgFchLL4f5ZW7o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af19t3wWTpCcE22yqVpZX1s9sRTika-qR3wq6fFN6lO6Dw&oe=69F1EABC"
+    },
+    {
+      "post_id": "3866096961251040320",
+      "shortcode": "DWnIrPqldxA",
+      "timestamp": "2026-04-02T01:51:33+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "Preparándome para celebrar una vuelta más al sol ☀️ \n#3deabril \nMuy feliz y agradecida 🙏🏼 \n#ariesseason",
+      "caption_clean": "Preparándome para celebrar una vuelta más al sol ☀️ \n#3deabril \nMuy feliz y agradecida 🙏🏼 \n#ariesseason",
+      "hashtags": [
+        "3deabril",
+        "ariesseason"
+      ],
+      "emojis": [
+        "☀️",
+        "🙏🏼"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 3635,
+        "comments_count": 58
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "positivo",
+        "emotion_labels": [
+          "alegría"
+        ],
+        "topic_tags": [
+          "vida personal",
+          "espiritualidad"
+        ],
+        "verbosity": "moderado",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17881864758531029",
+          "username": "fiorellasolines",
+          "text": "No se puede ser más bella.. imposible 😍 y ese make up ❤️ todo que ver",
+          "timestamp": "2026-04-02T02:05:04+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17882842851480733",
+          "username": "vkarauz",
+          "text": "",
+          "timestamp": "2026-04-02T02:23:57+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17908463067196328",
+          "username": "ceciliacascante",
+          "text": "Mi reina hermosa 😍",
+          "timestamp": "2026-04-02T16:09:27+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18115453348710829",
+          "username": "flor_mpalomeque",
+          "text": "Achooo🔥🔥🔥",
+          "timestamp": "2026-04-02T16:36:26+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18036875171787896",
+          "username": "daniela_baque",
+          "text": "Hermosissisima 😘😘😘",
+          "timestamp": "2026-04-02T15:59:13+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17892941112440290",
+          "username": "ilemakeup",
+          "text": "Bellaaaaaa mi cumpleañeraaaaa! ❤️❤️❤️",
+          "timestamp": "2026-04-02T01:55:02+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17854435014650981",
+          "username": "tatizamve",
+          "text": "Bellísima 😍, eres un Sol que alumbras nuestras vidas ❤️",
+          "timestamp": "2026-04-02T03:02:07+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17873562327458203",
+          "username": "marcialexperience",
+          "text": "GUAPAAAAAAAAAA 😍",
+          "timestamp": "2026-04-02T01:59:09+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18337385971172623",
+          "username": "johnny_zumba",
+          "text": "Wow ❤️",
+          "timestamp": "2026-04-02T03:43:29+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17858278275626611",
+          "username": "ricardocarrionmu",
+          "text": "La cumpleañerita más guapa! ❤️",
+          "timestamp": "2026-04-02T12:25:04+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 1,
+        "posting_day": "Thursday",
+        "caption_length": 103,
+        "emoji_density": 0.125,
+        "hashtag_density": 0.125
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/658761474_18585223639034431_6626527696052339170_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzg2NjA5Njg4MzgxNTY0MDY3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=B38KPNP56uwQ7kNvwF9zV8w&_nc_oc=Adri50fgZaUn_mOr7si__K6UJ3YIdvUj2JWSgrAEMt45BxCCTRBSpElC74VVHn4Ejsg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af02X5xvpGf8Xtu_W2w_WIZIfNapkldxg2YycjyvIsyKAQ&oe=69F1C8E4"
+    },
+    {
+      "post_id": "3864629352294721482",
+      "shortcode": "DWh6-uUEyfK",
+      "timestamp": "2026-03-31T01:22:52+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Últimamente solo quiero que todo fluya ✨ \nmi rutina, mis tiempos… mi conexión.\n\nNada de pausas, nada de estrés ⚡️ \npor eso me cambié a internet 100% fibra óptica y la diferencia se siente.\n\nXtrim, Xtrimadamente rápido\nDescúbrelo en www.xtrim.com.ec",
+      "caption_clean": "Últimamente solo quiero que todo fluya ✨ \nmi rutina, mis tiempos… mi conexión.\n\nNada de pausas, nada de estrés ⚡️ \npor eso me cambié a internet 100% fibra óptica y la diferencia se siente.\n\nXtrim, Xtrimadamente rápido\nDescúbrelo en www.xtrim.com.ec",
+      "hashtags": [],
+      "emojis": [
+        "✨",
+        "⚡"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 1780,
+        "comments_count": 73
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [
+          "tristeza",
+          "amor"
+        ],
+        "topic_tags": [
+          "vida personal",
+          "espiritualidad"
+        ],
+        "verbosity": "extenso",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18019341077655266",
+          "username": "vkarauz",
+          "text": "😍😍😍😍😍😍😍",
+          "timestamp": "2026-03-31T01:39:53+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17887273557472672",
+          "username": "flacaguerrerog",
+          "text": "🔥está súper esto ñaña",
+          "timestamp": "2026-03-31T02:22:08+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18081854873609100",
+          "username": "stephs.make.up",
+          "text": "Me diste outfit, rostra y velocidad 👏👏🔥🔥 ❤️",
+          "timestamp": "2026-03-31T01:53:44+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17975049549042453",
+          "username": "alexvizuete",
+          "text": "Que videazoooooo👏🔥😍🙌👏👏",
+          "timestamp": "2026-03-31T04:53:45+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18063275771361039",
+          "username": "carolinaguirre32",
+          "text": "La reina forever ❤️❤️❤️❤️😍",
+          "timestamp": "2026-03-31T02:40:36+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18022809545642319",
+          "username": "ilemakeup",
+          "text": "Bella mi chiquita ❤️",
+          "timestamp": "2026-03-31T02:10:20+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17955727202947549",
+          "username": "emiquezada",
+          "text": "😍😍😍❤️hermosa",
+          "timestamp": "2026-03-31T01:56:51+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18106880188876413",
+          "username": "fzzioza",
+          "text": "La más guapa ❤️❤️❤️ y el mejor internet",
+          "timestamp": "2026-03-31T01:28:03+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18151629598458255",
+          "username": "jennyvegaq",
+          "text": "La mejor con los mejores!! 🔥💜",
+          "timestamp": "2026-03-31T01:29:15+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18116448997584464",
+          "username": "karynazambranovera",
+          "text": "Cuándo se cierra una puerta, Dios te abre un ventanal porque te lo mereces 🥰 sigue triunfando, cómo lo has hecho siempre, sin dañar ni menospreciar a nadie, porque tu eres grande desde que naciste. Dios siga bendiciendo tu caminar ❤️",
+          "timestamp": "2026-03-31T02:36:01+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 1,
+        "posting_day": "Tuesday",
+        "caption_length": 248,
+        "emoji_density": 0.05,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/660743646_18584648359034431_1616123663139860572_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzg2NDYyOTM1MjI5NDcyMTQ4MjE4NTg0NjQ4MzU2MDM0NDMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=QtgydKRy6q0Q7kNvwFijmMz&_nc_oc=AdqrbjMd-TBwSOy8fy2CITborsLo29buuVjZb_uaZAICWPGwFYYEos6sF68mfSkv_hg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af25q19fHiyM5mgoWTFOeiS8-pyjE6kzYtg05FtFe_R6ew&oe=69F1D2AE"
+    },
+    {
+      "post_id": "3861751571231907762",
+      "shortcode": "DWXspf2FZ-y",
+      "timestamp": "2026-03-27T01:58:02+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "No todo salió como lo planeé…\nPero todo me enseñó algo que necesitaba aprender.\nLloré, dudé, me rompí un poco…\nY aún así, aquí estoy.\nMás fuerte, más consciente…\nY más agradecida que nunca.\n\nPorque incluso lo malo… me llevó a algo mejor 🤍\nEn pocos días estoy de cumpleaños 🥰🥰🥰",
+      "caption_clean": "No todo salió como lo planeé…\nPero todo me enseñó algo que necesitaba aprender.\nLloré, dudé, me rompí un poco…\nY aún así, aquí estoy.\nMás fuerte, más consciente…\nY más agradecida que nunca.\n\nPorque incluso lo malo… me llevó a algo mejor 🤍\nEn pocos días estoy de cumpleaños 🥰🥰🥰",
+      "hashtags": [],
+      "emojis": [
+        "🤍",
+        "🥰",
+        "🥰",
+        "🥰"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 26579,
+        "comments_count": 370
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "negativo",
+        "emotion_labels": [
+          "tristeza"
+        ],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "extenso",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18093829376136830",
+          "username": "fiorellasolines",
+          "text": "Auxilioooooo 🔥 se llevó todo!",
+          "timestamp": "2026-03-27T02:06:08+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18347795884209219",
+          "username": "ceciliacascante",
+          "text": "😍😍😍😍😍",
+          "timestamp": "2026-03-27T04:08:28+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18124563904578462",
+          "username": "sharoncortezz",
+          "text": "❤️❤️",
+          "timestamp": "2026-03-27T02:11:35+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17907130644200573",
+          "username": "tatizamve",
+          "text": "La más hermosa ariana y la mejor hija❤️, que nada borre tu felicidad ❤️😍🙌",
+          "timestamp": "2026-03-27T02:01:12+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17963995098058838",
+          "username": "joselyn_gallardo",
+          "text": "Queeee 🔥🔥🔥🔥 ❤️❤️❤️",
+          "timestamp": "2026-03-27T04:21:37+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17870556924593238",
+          "username": "makagomez19",
+          "text": "Lo mejor es lo que pasa y tú eres eterna reina ❤️❤️❤️",
+          "timestamp": "2026-03-27T02:39:12+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18415004137193353",
+          "username": "carolinaguirre32",
+          "text": "😍😍😍preciosa",
+          "timestamp": "2026-03-27T02:04:48+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18074518445633856",
+          "username": "susihidalgo",
+          "text": "Guapísima 😍",
+          "timestamp": "2026-03-27T02:03:28+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18093794825515332",
+          "username": "mayrajoficial",
+          "text": "😍que guapa!",
+          "timestamp": "2026-03-27T04:23:01+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17956990761085577",
+          "username": "nicolerubira",
+          "text": "😍❤️",
+          "timestamp": "2026-03-27T06:49:09+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 1,
+        "posting_day": "Friday",
+        "caption_length": 276,
+        "emoji_density": 0.0784313725490196,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/658910846_18583587784034431_4311970118615335560_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg2MTc0ODY5NzkxNTM5OTUzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=3Qexy1Xxm8cQ7kNvwEIKsEq&_nc_oc=AdowaiTwFitcccbjNWR65Vdd-P22xyNbGI6mgAlAFwURNo6RdOA3_04diFKeF3NToRI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af3LCRz7G4_oz8W7AHx6REIMRv9ZwgAux7QT8ELGWEfHyA&oe=69F1ED09"
+    },
+    {
+      "post_id": "3857385833696058040",
+      "shortcode": "DWIL_p7E9q4",
+      "timestamp": "2026-03-21T01:26:57+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Yo: “solo voy a probar uno”\nTambién yo: termina con todos los tonos puestos 🤭💄\n\nEs que estoy amando los tonos nuevos de \nSolutions Pro - Hialuron Balm de L’bel con ácido hialurónico\n@lbelonline",
+      "caption_clean": "Yo: “solo voy a probar uno”\nTambién yo: termina con todos los tonos puestos 🤭💄\n\nEs que estoy amando los tonos nuevos de \nSolutions Pro - Hialuron Balm de L’bel con ácido hialurónico\n@lbelonline",
+      "hashtags": [],
+      "emojis": [
+        "🤭",
+        "💄"
+      ],
+      "mentions": [
+        "lbelonline"
+      ],
+      "engagement": {
+        "likes_count": 1356,
+        "comments_count": 64
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [
+          "tristeza"
+        ],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "extenso",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17888092383460786",
+          "username": "luixmi.officiall",
+          "text": "Eres tan maravilla 😍❤️ @erikavelez te amo con toda mi alma 🥹😍",
+          "timestamp": "2026-03-21T13:22:10+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18043145894767489",
+          "username": "carolinaguirre32",
+          "text": "Amo preciosa única 👏👏👏👏👏",
+          "timestamp": "2026-03-21T01:39:26+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18045694481546783",
+          "username": "fiorellasolines",
+          "text": "Los colores de la súper estrella😍",
+          "timestamp": "2026-03-21T01:38:34+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18095564822319575",
+          "username": "luciana.balarezo",
+          "text": "Que bellos los colores 😍😍 Te quedan lindos",
+          "timestamp": "2026-03-21T01:54:03+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18093840428102924",
+          "username": "ka191855",
+          "text": "Tan bonito y donde se los puede comprar",
+          "timestamp": "2026-03-21T04:55:25+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18151216114460120",
+          "username": "maluwalsh",
+          "text": "Mi Reina 👑💖",
+          "timestamp": "2026-03-21T01:49:41+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18065047346330167",
+          "username": "fernandodavidpihuave",
+          "text": "👏👏👏👏👏",
+          "timestamp": "2026-03-21T01:34:36+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17880706878498750",
+          "username": "lacobrajhon53",
+          "text": "El cielo puede estar del color que sea Pero ver lo hermosa que es hace que el día siempre sea bonito 👏🇪🇨",
+          "timestamp": "2026-03-21T01:43:06+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17851835814640538",
+          "username": "elenamolinaloor",
+          "text": "❤️",
+          "timestamp": "2026-03-21T02:19:44+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17931966666053619",
+          "username": "carlosalejandroverag",
+          "text": "❤️❤️❤️😍😍😍😍😍😍👏👏👏👏",
+          "timestamp": "2026-03-21T03:32:01+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 1,
+        "posting_day": "Saturday",
+        "caption_length": 193,
+        "emoji_density": 0.058823529411764705,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/656274321_26028633213446032_3465992056245853069_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzg1NzM4NTgzMzY5NjA1ODA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=lAC6SSKsBlUQ7kNvwF1_vr0&_nc_oc=Adq1TxmLpMkDeMvW-gpWEphEFakkJu6cdef2PTODObG-oSDdUtB7VzVYBfOOhHOhkUI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af0uEcAziI5YfjzbjQRNeatO9iVnO-4Y8jWjLy-AahwG5A&oe=69F1D5CD"
+    },
+    {
+      "post_id": "3855842510782463697",
+      "shortcode": "DWCtFWdCf7R",
+      "timestamp": "2026-03-18T22:18:52+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "Bien Manaba 🔪🥰",
+      "caption_clean": "Bien Manaba 🔪🥰",
+      "hashtags": [],
+      "emojis": [
+        "🔪",
+        "🥰"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 3047,
+        "comments_count": 96
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "positivo",
+        "emotion_labels": [
+          "alegría"
+        ],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18317426245281287",
+          "username": "marioalbertomaciasintriago",
+          "text": "😍😍😍😍😍",
+          "timestamp": "2026-03-18T22:49:29+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17959492632062081",
+          "username": "doritapalmundo",
+          "text": "😂😂😂😂😂😂😂😂😂😂",
+          "timestamp": "2026-03-18T22:31:38+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18445629820129542",
+          "username": "claudiacamposano",
+          "text": "Así es mi amorchhh!!!❤️❤️❤️😂😂",
+          "timestamp": "2026-03-18T23:18:59+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17875735485549942",
+          "username": "carolinaguirre32",
+          "text": "😂😂😂jajajajajajaj",
+          "timestamp": "2026-03-18T22:28:08+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18061479515354994",
+          "username": "johnny_zumba",
+          "text": "❤️ah que mujersota te amo",
+          "timestamp": "2026-03-19T00:17:24+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18512873464075627",
+          "username": "byronsdav",
+          "text": "😂😂😂",
+          "timestamp": "2026-03-21T19:19:17+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "17929743894218750",
+          "username": "yadicd",
+          "text": "Brava como todas las manabas 👏🏼👏🏼👏🏼😃🤩",
+          "timestamp": "2026-03-18T22:47:19+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18328138510247783",
+          "username": "gabrielakarol78",
+          "text": "😍😍😍😍😂😂😂😂😂😂👏👏👏👏",
+          "timestamp": "2026-03-18T22:59:22+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18047881556718867",
+          "username": "vegamonyka",
+          "text": "Se enoja en guapa 👁️👄👁️💅🏻✨",
+          "timestamp": "2026-03-18T22:31:00+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18003895682720352",
+          "username": "karynazambranovera",
+          "text": "😂😂 Eso viene de familia 🔥",
+          "timestamp": "2026-03-18T22:41:09+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 22,
+        "posting_day": "Wednesday",
+        "caption_length": 14,
+        "emoji_density": 0.6666666666666666,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/653913816_18580903276034431_4341471262769369608_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzg1NTg0MjUxMDc4MjQ2MzY5NzE4NTgwOTAzMjcwMDM0NDMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHgxMjgwLnNkci5DMyJ9&_nc_ohc=RbXSj38wisIQ7kNvwGTI6-l&_nc_oc=AdpqBU5oaJ3b06KyZgWRtrixn0TzVxor03M8pDf7FWQzhEksbFt4Fhvk7LImWCf2m-Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=P2NDN8QfxeaxRIn0Mub7cw&_nc_ss=7a22e&oh=00_Af32SWe8pQKpwdjqWKTe92OilUYZFIATFT5MtyRRSOIfSA&oe=69F1D359"
+    }
+  ],
+  "aggregate_features": {
+    "posting_frequency_days": 24.22,
+    "most_active_hour": 1,
+    "most_active_day": "Wednesday",
+    "avg_likes_per_post": 23687.4,
+    "avg_comments_per_post": 654.8,
+    "style": {
+      "avg_caption_length": 306.3,
+      "avg_hashtags": 0.9,
+      "avg_emojis": 2.1
+    }
+  },
+  "personality_report": {
+    "summary": "Erika Vélez parece ser una persona carismática y apasionada, con una gran capacidad para conectar con su audiencia y generar entusiasmo en torno a sus experiencias y logros. Su personalidad refleja una mezcla de seguridad, empatía y determinación, lo que sugiere que es alguien extravertida, consciente de sí misma y con una fuerte ética laboral.",
+    "traits": {
+      "openness": {
+        "score": 0.7,
+        "interpretation": "Erika muestra una mente abierta y curiosa, ya que comparte sobre sus experiencias y logros de manera auténtica y sin miedo a mostrar su verdadero yo.",
+        "confidence": 0.8,
+        "evidence": [
+          "Comparte sobre sus sentimientos y experiencias personales.",
+          "Explora diferentes temas y actividades en sus publicaciones."
+        ]
+      },
+      "conscientiousness": {
+        "score": 0.8,
+        "interpretation": "Erika parece ser alguien responsable y organizada, ya que logra mantener una presencia constante en sus redes sociales y participa en eventos y proyectos de manera comprometida.",
+        "confidence": 0.9,
+        "evidence": [
+          "Mantiene una presencia regular en Instagram.",
+          "Participa en eventos y proyectos de manera comprometida."
+        ]
+      },
+      "extraversion": {
+        "score": 0.9,
+        "interpretation": "Erika muestra una personalidad extravertida, ya que busca constantemente interactuar con su audiencia y generar entusiasmo en torno a sus experiencias.",
+        "confidence": 0.95,
+        "evidence": [
+          "Comparte contenido que busca generar interacción con su audiencia.",
+          "Utiliza un lenguaje positivo y motivador en sus publicaciones."
+        ]
+      },
+      "agreeableness": {
+        "score": 0.8,
+        "interpretation": "Erika muestra una actitud amigable y cooperativa, ya que busca generar un ambiente positivo y de apoyo en torno a sus publicaciones.",
+        "confidence": 0.85,
+        "evidence": [
+          "Utiliza un lenguaje positivo y motivador en sus publicaciones.",
+          "Respuesta a comentarios de manera amigable y agradecida."
+        ]
+      },
+      "neuroticism": {
+        "score": 0.4,
+        "interpretation": "Erika no muestra signos claros de neuroticismo, ya que su contenido refleja una actitud positiva y segura, sin indicios de ansiedad o inseguridad.",
+        "confidence": 0.7,
+        "evidence": [
+          "No se observan publicaciones que reflejen ansiedad o inseguridad.",
+          "Mantiene una actitud positiva y segura en sus interacciones."
+        ]
+      }
+    },
+    "academic_notes": "La personalidad de Erika Vélez, tal como se refleja en sus publicaciones de Instagram, puede ser analizada a través de la teoría de los Cinco Grandes Rasgos de Personalidad (OCEAN). Se observa que su perfil combina rasgos de apertura, conciencia, extraversion y amabilidad, lo que sugiere que es una persona carismática y apasionada. Estos indicadores digitales pueden ser útiles para entender cómo las personalidades se manifiestan en entornos en línea y cómo influyen en las interacciones sociales.",
+    "potential_biases": [
+      "Sesgo de selección: El análisis se basa en el contenido seleccionado por Erika para compartir en Instagram.",
+      "Sesgo de presentación: La forma en que Erika presenta su personalidad en línea puede no reflejar completamente su personalidad en la vida real.",
+      "Sesgo cultural: La interpretación de los rasgos de personalidad puede variar dependiendo del contexto cultural."
+    ],
+    "disclaimer": "Propósito académico, no diagnóstico médico."
+  }
+}

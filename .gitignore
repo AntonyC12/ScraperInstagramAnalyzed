@@ -1,0 +1,46 @@
+ARQUITECTURA.md
+session.json
+instagram_data-json
+DOCUMENTACION_DETALLADA.txt
+
+# Environment variables
+.env
+
+# Scraper: sesión y salidas
+Back/sessions/
+Back/scraper.log
+Back/*_scrapy*.json
+#Back/reports
+Back/application/__pycache__
+Back/config/__pycache__
+Back/domain/__pycache__
+Back/infrastructure/__pycache__
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+debug_followers.json
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+

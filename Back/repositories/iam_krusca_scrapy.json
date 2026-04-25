@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "scraped_at": "2026-04-25T00:08:36.016488+00:00",
+    "target_account": "iam_krusca",
+    "scraper_version": "2.1.0",
+    "posts_requested": 10,
+    "posts_obtained": 10,
+    "comments_per_post": 10,
+    "total_comments_obtained": 11,
+    "session_valid": true,
+    "app_id_used": "936619743392459"
+  },
+  "profile": {
+    "username": "iam_krusca",
+    "full_name": "Kruscaya  Santacruz",
+    "is_private": true,
+    "is_verified": false,
+    "is_business": false,
+    "followers_count": 1005,
+    "following_count": 1589,
+    "posts_count": 47,
+    "bio": "🧃Santo Domingueña \n#Arqbaby",
+    "external_url": "",
+    "profile_pic_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-19/657908703_18463323064097384_6517667205296327626_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fuio13-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gH4Ozb6wGrGAV8xPCkXHv5fiipUNSJVDTLXQWVuVjYGtR7hNcESxxnfB-8TM1zKQ5Q&_nc_ohc=Tp0O-bXmW0UQ7kNvwGD6oqR&_nc_gid=VLuHQSEO67RBytmkc3_RTw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0eM5G6787XCsmKla8xP91qtnNyWNL5UgKtYahLrQvyaw&oe=69F1E728&_nc_sid=8b3546",
+    "profile_pic_hd_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-19/657908703_18463323064097384_6517667205296327626_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fuio13-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gH4Ozb6wGrGAV8xPCkXHv5fiipUNSJVDTLXQWVuVjYGtR7hNcESxxnfB-8TM1zKQ5Q&_nc_ohc=Tp0O-bXmW0UQ7kNvwGD6oqR&_nc_gid=VLuHQSEO67RBytmkc3_RTw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3FH9PQBbG3Z1gl50mMHheLb-sEP37tby3c_yWrrkLOjA&oe=69F1E728&_nc_sid=8b3546",
+    "declared_context": {
+      "language": "español",
+      "country": "República Dominicana",
+      "city": "Santo Domingo",
+      "age_range": null,
+      "education_level": null,
+      "occupation": null
+    }
+  },
+  "data_quality": {
+    "first_post_date": "2025-07-12T00:02:31+00:00",
+    "last_post_date": "2026-03-23T14:58:14+00:00",
+    "posts_requested": 10,
+    "posts_obtained": 10,
+    "comments_obtained": 11
+  },
+  "posts": [
+    {
+      "post_id": "3859245149952800155",
+      "shortcode": "DWOywRIFfWbSQhLqb8tr4Cqiviry-rITY6Z_6o0",
+      "timestamp": "2026-03-23T14:58:14+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "Hoy acompañada de lluvia en el Páramo 🍫🐎",
+      "caption_clean": "Hoy acompañada de lluvia en el Páramo 🍫🐎",
+      "hashtags": [],
+      "emojis": [
+        "🍫",
+        "🐎"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 67,
+        "comments_count": 2
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "negativo",
+        "emotion_labels": [
+          "amor"
+        ],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18073362044558905",
+          "username": "pame_enriquezc",
+          "text": "Que hermosa 💕💕",
+          "timestamp": "2026-03-23T15:52:51+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 14,
+        "posting_day": "Monday",
+        "caption_length": 40,
+        "emoji_density": 0.25,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/655799731_18461174737097384_256718414771421062_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg1OTI0NDI1NzU5NzM4NzA5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=Hfkz_gISZ90Q7kNvwE9Tyky&_nc_oc=AdqIBf4UkoGWYOR9DTqNOg0x80tJV-xpNdxij9O-kGCOzvGwhLXypgpLiycBUpfnV7s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af0X26KYgCHZJ6vbilh_pSKjwHi7QGQkJJYF9GSBb19b4g&oe=69F1C221"
+    },
+    {
+      "post_id": "3853520939678551390",
+      "shortcode": "DV6dOC4Ec1eVsAF9m7Acq713bn8BFFulSDDvFE0",
+      "timestamp": "2026-03-15T17:25:15+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "Part 2",
+      "caption_clean": "Part 2",
+      "hashtags": [],
+      "emojis": [],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 62,
+        "comments_count": 0
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [],
+      "derived_features": {
+        "posting_hour": 17,
+        "posting_day": "Sunday",
+        "caption_length": 6,
+        "emoji_density": 0.0,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/652196739_18458956117097384_6487850649520891201_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzg1MzUyMDc5ODc4MzQ4MDUyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=fuibKzUPrqcQ7kNvwFprncQ&_nc_oc=AdqYS5Q0fUqVtuOUklCGhIeALpLDexLyRDVeVYGReRCJq67ekRNJPENZ-zoGcP6lXAk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af0pXfj8AqVmUQIfyCxQ-MlwNsHalrwVKshdl0uxFrZBtg&oe=69F1CE8F"
+    },
+    {
+      "post_id": "3853507926657430676",
+      "shortcode": "DV6aQrjkXSUlQo_kHl9TMpCrhUY7F8OM6uGNJE0",
+      "timestamp": "2026-03-15T16:59:23+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "Senderos y cascadas🪾",
+      "caption_clean": "Senderos y cascadas🪾",
+      "hashtags": [],
+      "emojis": [
+        "🪾"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 76,
+        "comments_count": 1
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18005499599894713",
+          "username": "marcosmazous",
+          "text": "Bomnitooo",
+          "timestamp": "2026-03-15T17:06:31+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 16,
+        "posting_day": "Sunday",
+        "caption_length": 20,
+        "emoji_density": 0.3333333333333333,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/652396507_18458952187097384_5033106484299232788_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzg1MzUwNzE1ODE3NzA1NzQ2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=ZP0fHJRidnEQ7kNvwH2GeXO&_nc_oc=AdoJ2x87KFyTMZVGdcMvWaUiQpt8beiwadNPPy1fLqFJ8W9C7pIAqT0gFE9wfjwoQkw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af2Z8O5WVy9x4_mlmEyMOBFioVcXIw4mqzn7rZ_QcdPXCg&oe=69F1CCE8"
+    },
+    {
+      "post_id": "3808502076465600010",
+      "shortcode": "DTahHXSEdYKojvgTqp6-FN9kXfkE08LLMRAbxU0",
+      "timestamp": "2026-01-12T14:40:48+00:00",
+      "type": "GraphImage",
+      "caption_raw": "No titles, just vibes.🤪",
+      "caption_clean": "No titles, just vibes.🤪",
+      "hashtags": [],
+      "emojis": [
+        "🤪"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 115,
+        "comments_count": 3
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18110202937575991",
+          "username": "chonillomaura",
+          "text": "👏",
+          "timestamp": "2026-01-13T01:24:26+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18124461904540587",
+          "username": "ariestefaniaa",
+          "text": "😍😍",
+          "timestamp": "2026-01-12T15:14:58+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18081233459186998",
+          "username": "jamith_15",
+          "text": "😮",
+          "timestamp": "2026-01-12T14:58:54+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 14,
+        "posting_day": "Monday",
+        "caption_length": 23,
+        "emoji_density": 0.25,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/612069934_18446700286097384_854544712219486261_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzgwODUwMjA3NjQ2NTYwMDAxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5zZHIuQzMifQ%3D%3D&_nc_ohc=UA8on-_rMx0Q7kNvwFw3uhG&_nc_oc=AdqMvUju5hvqGa-ctIFLi-0R6tOKMCRNlne1wj_Kt35SWyHlbtT74ReOoOGrculqBpk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af1W3Krk8gU82Me6uOnidIVOAKtomMwskjw6kdeiAJEVWQ&oe=69F1D358"
+    },
+    {
+      "post_id": "3773078771344598941",
+      "shortcode": "DRcqybjj-ed0nZcG_Op3vozsCsuOqOjWGPzAFM0",
+      "timestamp": "2025-11-24T17:41:01+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "🤪Ya no estoy en mi peak, estoy en mi prime 😎",
+      "caption_clean": "🤪Ya no estoy en mi peak, estoy en mi prime 😎",
+      "hashtags": [],
+      "emojis": [
+        "🤪",
+        "😎"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 72,
+        "comments_count": 5
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "moderado",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17864687283513777",
+          "username": "_angiebell_s",
+          "text": "💕",
+          "timestamp": "2025-11-24T18:05:30+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18083483185855596",
+          "username": "pame_enriquezc",
+          "text": "😼❤️",
+          "timestamp": "2025-11-24T18:00:32+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18174448030369736",
+          "username": "_mishell_villacis_",
+          "text": "Soy tu fan 🥰🥺❤️‍🩹",
+          "timestamp": "2025-11-24T18:51:04+00:00",
+          "is_owner_comment": false
+        },
+        {
+          "comment_id": "18082385447137244",
+          "username": "sandra_santacruz12",
+          "text": "❤️",
+          "timestamp": "2025-11-25T02:54:54+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 17,
+        "posting_day": "Monday",
+        "caption_length": 44,
+        "emoji_density": 0.18181818181818182,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/584398648_18440280631097384_3438376556323838679_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=106&ig_cache_key=Mzc3MzA3ODc2MjI2ODEwNzAzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=IiJnOqBzMT8Q7kNvwE7Z4lt&_nc_oc=AdpP7RIlmnZh8YXIdFbhWhPh8wSrXHfRAEkTNjpi6darCUR8285-iz2IEbiA5A20KXY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af2VmNHCOl8ovccOWTe6sEWNZY2ADer3jj2WP5f0jZfLoA&oe=69F1C471"
+    },
+    {
+      "post_id": "3771185115901823261",
+      "shortcode": "DRV8OHfkYkdf93-RnEy9lxBMawKISulWz6Yh6E0",
+      "timestamp": "2025-11-22T02:59:33+00:00",
+      "type": "GraphVideo",
+      "caption_raw": "😍😍😍",
+      "caption_clean": "😍😍😍",
+      "hashtags": [],
+      "emojis": [
+        "😍",
+        "😍",
+        "😍"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 45,
+        "comments_count": 1
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "18155518372371236",
+          "username": "mishelle_goce",
+          "text": "😍",
+          "timestamp": "2025-11-22T03:21:24+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Saturday",
+        "caption_length": 3,
+        "emoji_density": 3.0,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.71878-15/584924475_1179105257520245_1323395463454046882_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzc3MTE4NTExNTkwMTgyMzI2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=BgaOIVPwo5YQ7kNvwH9bSVV&_nc_oc=AdoM-nhvSy354zssqOivpUEhK21jFD_xnZvJg2hqEP1gtFnQBthQEL--5TMxvkxc9Uw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af3m61VbQFThH_OmVSN9_jrkR36r2CSX3zXn5Sq-Q6455A&oe=69F1F0DF"
+    },
+    {
+      "post_id": "3771177605379774961",
+      "shortcode": "DRV6g0xkdnxmzRyg2OuGAp5BOm_Ify8t2J13V40",
+      "timestamp": "2025-11-22T02:43:44+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "Lo repetiría mil veces más. ❤️",
+      "caption_clean": "Lo repetiría mil veces más. ❤️",
+      "hashtags": [],
+      "emojis": [
+        "❤️"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 76,
+        "comments_count": 2
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [
+          "amor"
+        ],
+        "topic_tags": [
+          "vida personal"
+        ],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "neutro",
+        "confidence": 0.75
+      },
+      "comments_sample": [
+        {
+          "comment_id": "17884507650287923",
+          "username": "nadiags.13",
+          "text": "😍",
+          "timestamp": "2025-11-22T03:19:40+00:00",
+          "is_owner_comment": false
+        }
+      ],
+      "derived_features": {
+        "posting_hour": 2,
+        "posting_day": "Saturday",
+        "caption_length": 30,
+        "emoji_density": 0.16666666666666666,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/585001501_18439749955097384_2567270152393796507_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc3MTE3NzU5NzQxMDU0NDgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=bWCql8TK6REQ7kNvwEWuEjQ&_nc_oc=AdoKVgUAxyxCMvN5C_RqISN0NjFevHDgy8TxaTCaJZ3XxiskGGEamotDOC_EmAcivZo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af3iBSfQQA2eNA42jbRaV2L_tszaJYxo1oN9TshOYBlHIw&oe=69F1D2E1"
+    },
+    {
+      "post_id": "3712175211216465129",
+      "shortcode": "DOES6_IkWzpa622Bm1tIBbAwsHt3NXxLirBUFE0",
+      "timestamp": "2025-09-01T16:56:31+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "Frecuencia en los Frailes 📍🤠",
+      "caption_clean": "Frecuencia en los Frailes 📍🤠",
+      "hashtags": [],
+      "emojis": [
+        "📍",
+        "🤠"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 79,
+        "comments_count": 0
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "neutro",
+        "emotion_labels": [],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [],
+      "derived_features": {
+        "posting_hour": 16,
+        "posting_day": "Monday",
+        "caption_length": 28,
+        "emoji_density": 0.4,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/541652520_18425320186097384_4714353810140260240_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=MzcxMjE3NTIwMTg3MTU1MzUwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=kyPPO-fQCsQQ7kNvwGVgSu8&_nc_oc=AdolkTqQ99WeWexnwySkT9ev3Ng-muY08Ym3h4DB-a3Zo8nFSeaPhTDNx541FXN96wY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af0RCW3PLHDJlgMcoZ2H6xMg06t4wIxiHHao_JHPKItaHQ&oe=69F1F205"
+    },
+    {
+      "post_id": "3682705749567161648",
+      "shortcode": "DMbmV4PPUUwYTj1CpVd-3b9XyyOa6lm8uH_YUs0",
+      "timestamp": "2025-07-23T01:05:57+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "Un bubble tea es todo lo que está bien 🤝",
+      "caption_clean": "Un bubble tea es todo lo que está bien 🤝",
+      "hashtags": [],
+      "emojis": [
+        "🤝"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 63,
+        "comments_count": 1
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "positivo",
+        "emotion_labels": [
+          "alegría"
+        ],
+        "topic_tags": [],
+        "verbosity": "breve",
+        "reflexivity": "neutro",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [],
+      "derived_features": {
+        "posting_hour": 1,
+        "posting_day": "Wednesday",
+        "caption_length": 40,
+        "emoji_density": 0.1,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/523236279_18419749702097384_7416023815689954449_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=MzY4MjcwNDk0NDUyMDg3NjkzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=FBu6MuBfB5UQ7kNvwEI-hGe&_nc_oc=AdqmvM-Ojmpr56rJaIRf2xjYVnWNz1cpB4Hio1cY7yTC_APLlic4ZKGkoFmh4U5sH1o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af3Jl1YyEuQcuNlTtCve2G6qAKx_lKviCuQVsz4QJTF1IQ&oe=69F1C66B"
+    },
+    {
+      "post_id": "3674701283500953563",
+      "shortcode": "DL_KVkSvw_b0jt-DGnrka3pgjLZ16oXaCJ5_WU0",
+      "timestamp": "2025-07-12T00:02:31+00:00",
+      "type": "GraphSidecar",
+      "caption_raw": "🔥Holaaaa, la más feliz porque ya es fin de semana ! 🤠",
+      "caption_clean": "🔥Holaaaa, la más feliz porque ya es fin de semana ! 🤠",
+      "hashtags": [],
+      "emojis": [
+        "🔥",
+        "🤠"
+      ],
+      "mentions": [],
+      "engagement": {
+        "likes_count": 63,
+        "comments_count": 0
+      },
+      "text_analysis": {
+        "language_detected": "es",
+        "sentiment": "positivo",
+        "emotion_labels": [
+          "alegría"
+        ],
+        "topic_tags": [
+          "espiritualidad"
+        ],
+        "verbosity": "moderado",
+        "reflexivity": "impulsivo",
+        "tone": "emocional",
+        "confidence": 0.75
+      },
+      "comments_sample": [],
+      "derived_features": {
+        "posting_hour": 0,
+        "posting_day": "Saturday",
+        "caption_length": 53,
+        "emoji_density": 0.16666666666666666,
+        "hashtag_density": 0.0
+      },
+      "display_url": "https://instagram.fuio13-1.fna.fbcdn.net/v/t51.82787-15/518053574_18418216693097384_4174919361936443784_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=MzY3NDcwMTI3NzExNzE5NDU4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=rxAdWxwA14QQ7kNvwHEsphW&_nc_oc=AdoQpuFIzu6_lTpAdPIKfv91j1coy3GH_hkbYYN4PbFZFXc843WU_5P1g0CdA1ZHx50&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fuio13-1.fna&_nc_gid=9DJAb9f2QH69nPcsYJwBTw&_nc_ss=7a22e&oh=00_Af0ujC7uyssV1m1mlKf8h4ZUaVQbXEA3tK9J_yvdxQJ7Og&oe=69F1EBF8"
+    }
+  ],
+  "aggregate_features": {
+    "posting_frequency_days": 27.89,
+    "most_active_hour": 14,
+    "most_active_day": "Monday",
+    "avg_likes_per_post": 71.8,
+    "avg_comments_per_post": 1.5,
+    "style": {
+      "avg_caption_length": 28.7,
+      "avg_hashtags": 0.0,
+      "avg_emojis": 1.5
+    }
+  },
+  "personality_report": {
+    "summary": "La persona detrás de este perfil de Instagram parece ser alguien jovial, apasionada y que disfruta de la naturaleza y la belleza. Su contenido refleja un gusto por la aventura, la exploración y la expresión de emociones positivas.",
+    "traits": {
+      "openness": {
+        "score": 0.8,
+        "interpretation": "Indicativo de una persona abierta a nuevas experiencias y emocionalmente inteligente, con interés en la exploración y la creatividad.",
+        "confidence": 0.7,
+        "evidence": [
+          "Publicaciones sobre senderos y cascadas",
+          "Variedad en los temas de sus publicaciones"
+        ]
+      },
+      "conscientiousness": {
+        "score": 0.4,
+        "interpretation": "Puede indicar una tendencia a ser menos organizada o menos planeadora, basándose en la ausencia de publicaciones que sugieran metas a largo plazo o rutinas específicas.",
+        "confidence": 0.6,
+        "evidence": [
+          "Falta de patrones regulares en la frecuencia de publicaciones",
+          "Contenido más bien espontáneo"
+        ]
+      },
+      "extraversion": {
+        "score": 0.9,
+        "interpretation": "Sugiere una personalidad extrovertida y sociable, que busca la interacción y la conexión con otros a través de sus publicaciones y comentarios.",
+        "confidence": 0.8,
+        "evidence": [
+          "Uso de emojis y expresiones que buscan interacción",
+          "Altos niveles de engagement en publicaciones"
+        ]
+      },
+      "agreeableness": {
+        "score": 0.7,
+        "interpretation": "Indica una naturaleza amigable y cooperativa, con interés en las opiniones y sentimientos de los demás, aunque no muy evidente en el contenido publicado.",
+        "confidence": 0.65,
+        "evidence": [
+          "Comentarios positivos y de apoyo en sus publicaciones",
+          "Uso de un lenguaje amistoso en los pocos comentarios realizados"
+        ]
+      },
+      "neuroticism": {
+        "score": 0.3,
+        "interpretation": "Parece ser una persona relativamente estable emocionalmente, con poca evidencia de inestabilidad o expresiones negativas.",
+        "confidence": 0.6,
+        "evidence": [
+          "Predominio de contenido positivo y de disfrute",
+          "Falta de expresiones de ansiedad o ira"
+        ]
+      }
+    },
+    "academic_notes": "La relación entre los indicadores digitales y los rasgos de personalidad sugiere que las redes sociales pueden proporcionar una ventana a la personalidad de un individuo. Sin embargo, es crucial considerar los posibles sesgos y limitaciones de esta forma de evaluación, como la autoselección de contenido y la presentación de una 'imagen pública'.",
+    "potential_biases": [
+      "Sesgo de autoselección",
+      "Sesgo de presentación",
+      "Limitaciones culturales en la interpretación de los datos",
+      "Falacias en la generalización de los rasgos a partir del comportamiento en línea"
+    ],
+    "disclaimer": "Propósito académico, no diagnóstico médico."
+  }
+}
